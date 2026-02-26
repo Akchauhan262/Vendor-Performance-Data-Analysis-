@@ -74,13 +74,13 @@ The dashboard provides an interactive view of vendor performance, sales trends, 
 
 ## Repository Structure
 Vendor-Performance-Analysis/
-│
-├── notebooks/ # Jupyter notebooks with full analysis
-├── data/ # Dataset used for analysis
-├── report/ # Final PDF report
-├── dashboard/ # Power BI dashboard screenshots
-├── README.md
-└── requirements.txt
+- │
+- ├── notebooks/ # Jupyter notebooks with full analysis
+- ├── data/ # Dataset used for analysis
+- ├── report/ # Final PDF report
+- ├── dashboard/ # Power BI dashboard screenshots
+- ├── README.md
+- └── requirements.txt
 
 ---
 
