@@ -73,7 +73,7 @@ The dashboard provides an interactive view of vendor performance, sales trends, 
 ---
 
 ## Repository Structure
-Vendor-Performance-Analysis/
+Vendor-Performance-Data-Analysis/
 - │
 - ├── notebooks/ # Jupyter notebooks with full analysis
 - ├── data/ # Dataset used for analysis
